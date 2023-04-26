@@ -47,6 +47,8 @@ devesion, and exponentiation, called for in the instructions are performed.
 4. CU is a component of a CPU. Components - instruction registers, control signals within the CPU, control signals to/from the bus, control bus, input flags,
    and clock signals.
 5. ALU is components of computer in which perform selection of operations.
+6. Primary components of the Alu, what is their purpose? 
+7. What does the logilac unit consist of? 
 
 <!--
 d) a clock, whic

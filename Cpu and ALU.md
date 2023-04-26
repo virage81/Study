@@ -31,17 +31,18 @@ computer that directs the sequence or step-by-step operation of the system, sele
 instructions and data from memory, interprets the program instructions, and
 controls the flow between main storage and the arithmetical-logical unit.
 
-```
+
 
 Вторая часть текста, не разобрал, нужен чистый лист
 
 The arithmetical-logical unit (ALU) is that portion of the computer in which the arithmetical operations, namely, addition, substraction, multiplication,
 devesion, and exponentiation, called for in the instructions are performed.
+```
 
 ## Answers
 
 1.
-2. In digital computers the CPU can be divided into two functional units cailed the control unit (CU) and the arithmetical-logical unit (ALU)
+2. In digital computers the CPU can be divided into two functional units called the control unit (CU) and the arithmetical-logical unit (ALU)
 3. The function of the CU is to transmit coordinating control signals and commands.
 4. CU is a component of a CPU. Components - instruction registers, control signals within the CPU, control signals to/from the bus, control bus, input flags,
    and clock signals.

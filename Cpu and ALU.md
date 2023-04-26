@@ -16,10 +16,6 @@
 
 The Central Processing Unit and Arithmetical Logical Unit (CPU and ALU)
 
-
-
- 
-
 It is common practice in computer science for the words ‘computer’ and ‘processor’ to be used interchangeably. More precisely, ‘computer’ refers to the central processing unit (CPU) together with an internal memory. The internal memory, control and processing components make up the heart of the computer system. Manufactures design the CPU to control and carry out basic instructions for their particular computer.
 
 In digital computers the CPU can be divided into two functional units called the control unit (CU) and the arithmetical-logical unit (ALU). These two units are made up of electronic circuits with millions of switches that can be one of two states, either on or off.
@@ -39,8 +35,6 @@ d) a clock, which while not a clock in the sense of a time-keeping device, does 
 This timing marks are electronic and very rapid.
 
 The arithmetical-logical unit (ALU) is that portion of the computer in which the arithmetical operations, namely, addition, subtraction, multiplication, division and exponentiation, called for in the instructions are performed.
-
-Programs and the data on which the control unit and the ALU operate, must be in internal memory in order to be processed. Thus, if located on secondary memory devices such as disks or tapes, programs and data are first loaded into internal memory.
 
 The primary components of the ALU are banks of bistable devices, which are called register. Their purpose is to hold the numbers involved in the calculation and hold the result temporarily unit they can be transferred to memory.
 

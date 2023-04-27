@@ -56,7 +56,7 @@ Typical modern computers can perform as many as one hundred thousand additions o
 The logical unit consists of electronic circuitry, which compares information and makes decisions based upon the result of the comparison. The decisions that
 can be made are whether a number is greater than, equal to, or less than another number.
 
-### Translation
+## Translation
 
 В информатике является обычная практика для слова «компьютер» и «процессор», которые будут использоваться взаимозаменяемо.Точнее, «компьютер» относится к
 центральному Обработка блока (ЦП) вместе с внутренней памятью.Компоненты внутренней памяти, управления и обработки составляют сердце компьютерной системы.
@@ -78,7 +78,7 @@ can be made are whether a number is greater than, equal to, or less than another
 
 в) декодер, который принимает призванную инструкцию и разбивает ее на отдельные команды, необходимые для его выполнения;
 
-D) Часы, которые не являются часами в смысле устройства для хранения времени, действительно производят отметки через регулярные промежутки времени.
+г) Часы, которые не являются часами в смысле устройства для хранения времени, действительно производят отметки через регулярные промежутки времени.
 
 Эти отметки времени электронные и очень быстрые.
 

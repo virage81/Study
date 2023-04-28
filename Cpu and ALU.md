@@ -17,12 +17,12 @@
 
 ## Answers
 
-1. The internal memory, control and processing components make up the heart of the computer system.
-2. In digital computers the CPU can be divided into two functional units called the control unit (CU) and the arithmetical-logical unit (ALU)
+1. The heart of computer is internal memory, control and processing components.
+2. Two functional components of the CPU is Control Unit (CU) and arithmetical-logical unit (ALU).
 3. The function of the CU is to transmit coordinating control signals, commands, directs the sequence or step-by-step operation of the system, selects
    instructions and data from memory, interprets the program instructions, and controls the flow between main storage and the arithmetical-logical unit.
 4. CU is a component of a CPU. Components - a counter, register, decoder and clock.
-5. ALU is components of computer in which perform set of operations.
+5. ALU is component of computer in which perform set of operations.
 6. The primary components of the ALU are banks of bistable devices, which are called register. Their purpose is to hold the numbers involved in the calculation
    and hold the result temporarily unit they can be transferred to memory.
 7. The logical unit consists of electronic circuitry, which compares information and makes decisions based upon the result of the comparison.

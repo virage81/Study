@@ -15,6 +15,18 @@
 6. Primary components of the ALU, what is their purpose?
 7. What does the logical unit consist of?
 
+## Answers
+
+1. The internal memory, control and processing components make up the heart of the computer system.
+2. In digital computers the CPU can be divided into two functional units called the control unit (CU) and the arithmetical-logical unit (ALU)
+3. The function of the CU is to transmit coordinating control signals, commands, directs the sequence or step-by-step operation of the system, selects
+   instructions and data from memory, interprets the program instructions, and controls the flow between main storage and the arithmetical-logical unit.
+4. CU is a component of a CPU. Components - a counter, register, decoder and clock.
+5. ALU is components of computer in which perform set of operations.
+6. The primary components of the ALU are banks of bistable devices, which are called register. Their purpose is to hold the numbers involved in the calculation
+   and hold the result temporarily unit they can be transferred to memory.
+7. The logical unit consists of electronic circuitry, which compares information and makes decisions based upon the result of the comparison.
+
 ## Text
 
 The Central Processing Unit and Arithmetical Logical Unit (CPU and ALU)
@@ -95,15 +107,3 @@ can be made are whether a number is greater than, equal to, or less than another
 
 Логическая единица состоит из электронной схемы, которая сравнивает информацию и принимает решения на основе результата сравнения.Решения, которые Можно
 сделать, является ли число больше, чем, равно или меньше, чем другое число.
-
-## Answers
-
-1. The internal memory, control and processing components make up the heart of the computer system.
-2. In digital computers the CPU can be divided into two functional units called the control unit (CU) and the arithmetical-logical unit (ALU)
-3. The function of the CU is to transmit coordinating control signals, commands, directs the sequence or step-by-step operation of the system, selects
-   instructions and data from memory, interprets the program instructions, and controls the flow between main storage and the arithmetical-logical unit.
-4. CU is a component of a CPU. Components - a counter, register, decoder and clock.
-5. ALU is components of computer in which perform set of operations.
-6. The primary components of the ALU are banks of bistable devices, which are called register. Their purpose is to hold the numbers involved in the calculation
-   and hold the result temporarily unit they can be transferred to memory.
-7. The logical unit consists of electronic circuitry, which compares information and makes decisions based upon the result of the comparison.

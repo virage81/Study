@@ -23,12 +23,12 @@
 3. No, you don't need to become a computer system architect. However, it is important to understand the functions of the major units of a computer system and
    how they work together.
 4. Computer system architect perform the functions of inputting, storing, processing, controlling, and outputting.
-5. Analog computers and Digital computers.
+5. I know Analog, Digital and Hybrid computers.
 6. They operate on the basis of an analogy to the process that is being studied. For example, a voltage may be used to represent other physical quantities such
    as speed, temperature, or pressure.
 7. Digital computers are use numbers to simulate on-going, or real-time processes.
-8. Digital computers, as contrasted with analog computers, deal with discrete rather than continuous quantities. They count rather than measure. They use
-   numbers instead of analogous physical quantities.
+8. Analog computers use physical quantities for performing functions, Digital computers use digital numbers. Because of this, digital computers count rather
+   than analog computers
 
 ## Text
 

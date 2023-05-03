@@ -1,9 +1,9 @@
-# CPU and ALU questions
+# CPU and ALU
 
 1. [Questions](#Questions)
-2. [Text](#Text)
-3. [Text translation](#Translation)
-4. [Answers](#Answers)
+2. [Answers](#Answers)
+3. [Text](#Text)
+4. [Text translation](#Translation)
 
 ## Questions
 

@@ -1,13 +1,7 @@
 # Application Programs
 
-1. [Questions](#Questions)
-2. [Answers](#Answers)
-3. [Text](#Text)
-4. [Text translation](#Translation)
-
-## Questions
-
-## Answers
+1. [Text](#Text)
+2. [Text translation](#Translation)
 
 ## Text
 

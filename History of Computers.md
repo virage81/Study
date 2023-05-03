@@ -1,5 +1,8 @@
 # History of Computers
 
+1. [Text](#Text)
+2. [Text translation](#Translation)
+
 ## Text
 
 History of Computers

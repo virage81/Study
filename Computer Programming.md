@@ -7,6 +7,17 @@
 
 ## Questions
 
+1. What is programming?
+2. What is the essence of programming?
+3. What should be done with the problem before processing by the computer?
+4. What is program?
+5. What are instructions?
+6. What are the main techniques
+7. What is flowchart?
+8. What is a template and what is it used for?
+9. What do you understand by "pseudocode"?
+10. What are the basic structures of pseudocode?
+
 ## Answers
 
 ## Text

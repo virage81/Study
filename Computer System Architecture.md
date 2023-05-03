@@ -28,7 +28,7 @@
    as speed, temperature, or pressure.
 7. Digital computers are use numbers to simulate on-going, or real-time processes.
 8. Digital computers, as contrasted with analog computers, deal with discrete rather than continuous quantities. They count rather than measure. They use
-   numbers instead of analogous physical quantities to simulate on-going, or real-time processes.
+   numbers instead of analogous physical quantities.
 
 ## Text
 

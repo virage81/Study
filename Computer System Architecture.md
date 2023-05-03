@@ -22,7 +22,7 @@
 2. The role of a computer system architect is to designs computers that can be used for many different applications in many different business.
 3. No, you don't need to become a computer system architect. However, it is important to understand the functions of the major units of a computer system and
    how they work together.
-4. Computer system architect perform the functions of perform the functions of inputting, storing, processing, controlling, and outputting.
+4. Computer system architect perform the functions of inputting, storing, processing, controlling, and outputting.
 5. Analog computers and Digital computers.
 6. They operate on the basis of an analogy to the process that is being studied. For example, a voltage may be used to represent other physical quantities such
    as speed, temperature, or pressure.

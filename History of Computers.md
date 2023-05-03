@@ -1,14 +1,5 @@
 # History of Computers
 
-1. [Questions](#Questions)
-2. [Answers](#Answers)
-3. [Text](#Text)
-4. [Text translation](#Translation)
-
-## Questions
-
-## Answers
-
 ## Text
 
 History of Computers

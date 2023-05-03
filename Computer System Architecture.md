@@ -7,8 +7,8 @@
 
 ## Questions
 
-1. В чем заключается роль аналитика? What is the role of an analyst?
-2. В чем заключается роль разработчика компьютерных систем? || Computer System Architect?
+1. What is the role of an analyst?
+2. What is the role of a Computer System Architect?
 3. Is it necessary for a user to become a Computer System Architect?
 4. What functions do Computer System Architect?
 5. What types of computers do you know?

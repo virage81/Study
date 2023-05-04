@@ -12,13 +12,24 @@
 3. What should be done with the problem before processing by the computer?
 4. What is program?
 5. What are instructions?
-6. What are the main techniques
+6. What are the main techniques?
 7. What is flowchart?
 8. What is a template and what is it used for?
 9. What do you understand by "pseudocode"?
 10. What are the basic structures of pseudocode?
 
 ## Answers
+
+1. Programming is the process of preparing a set of coded instructions which enables the computer to solve specific problems or to perform specific functions.
+2. The essence of computer programming is the encoding of the program for the computer by means of algorythms.
+3. Any problem must be specially processed for the computer to understand it, that is — coded or programmed.
+4. The programs are lists of instructions that will be followed by the control unit of the central processing unit (CPU).
+5. Instructions are the block of code that tells computer parts or application what to do.
+6. There are two common techniques: flowcharting and pseudocode.
+7. A flowchart is a plan in the form of a graphic or pictorial representation that uses predefined symbols to illustrate the program logic.
+8. A plastic or metal guide called a template is used to make drawing the symbols easier.
+9. Pseudocode is an imitation of actual program instructions.
+10. Pseudocode has three basic structures: sequence, decision, and looping logic. With these three structures, any required logic can be expressed.
 
 ## Text
 

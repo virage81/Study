@@ -1,7 +1,19 @@
 # History of Computers
 
 1. [Text](#Text)
-2. [Text translation](#Translation)
+2. [Paraphrase](#Paraphrase)
+3. [Text translation](#Translation)
+
+## Paraphrase
+
+History of Computers
+
+History of computers beginning with the use of the ten fingers as a calculating device. The abacus was later invented and was still used in some parts of the
+world into the 16th century. Throughout the 17th and 18th centuries, people searched for easier ways of calculating, resulting in the development of the slide
+rule and logarithms. The first calculating machine appeared in 1820 and real advancements were made in the mid-19th century with Charles Babbage's design of
+"The Analytical Engine". In 1930, the first analog computer was built, followed by the completion of the first digital computer in 1944. The following
+generations of computers developed over the years were faster, smaller, and more dependable, with fourth-generation computers being 50 times faster than their
+predecessors.
 
 ## Text
 

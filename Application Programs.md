@@ -1,9 +1,33 @@
-# Application Programs
+<h1> Application Programs</h1>
 
-1. [Text](#Text)
-2. [Text translation](#Translation)
+1. [Paraphrase](#Paraphrase)
+2. [Text](#Text)
+3. [Text translation](#Translation)
 
-## Text
+<h2 align="center" id="Paraphrase">Paraphrase</h2>
+
+Application Programs
+
+An Application Program is a software program that performs a specific function, such as accounting, word processing or drafting.
+
+**Word processing**: Word processing software programs allow us to create, edit, and save documents.
+
+**Accounting and spreadsheets**: These programs allow us to create, to edit, to sort electronic spreadsheets.
+
+**Database Management**. Database programs allow us to store, to edit and to view sorted lists of data.
+
+**Computer Aided Design**. This program simplifies the simulation. Because in it you can make a drawing -> visualize it -> test it.
+
+**Communications**: Computers can communicate with each other via regular telephone lines and modems. Communication software programs enable different types of
+computers to exchange data using a common language. The IMB PC can actually emulate various types of equipment, around the world, with the help of software.
+
+**Communication programs are**: Smartcom, Kermit, Crosstalk, PC Talk, Pro Comm, PC Anywhere, CloseUp.
+
+**Graphic Presentations**: These applications help us to exchange data between computers in other place in the world, using different types of language.
+
+**Microsoft Windows**. Windows is a graphical operating system developed by Microsoft.
+
+<h2 align="center" id="Text">Text</h2>
 
 Application Programs
 
@@ -70,7 +94,7 @@ applications, while only investing in a single product. The most popular integra
 select desired functions, rather than having to remember commands. As well Windows’ products allow a WYSIWYG (‘what you see is, what you get’) screen display,
 especially important for word processing and desktop publishing programs.
 
-## Translation
+<h2 align="center" id="Translation">Translation</h2>
 
 Application Programs
 

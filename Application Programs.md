@@ -4,7 +4,7 @@
 2. [Text](#Text)
 3. [Text translation](#Translation)
 
-<h2 align="center" id="Paraphrase">Paraphrase</h2>
+<h1 align="center" id="Paraphrase">Paraphrase</h1>
 
 Application Programs
 
@@ -27,7 +27,7 @@ computers to exchange data using a common language. The IMB PC can actually emul
 
 **Microsoft Windows**. Windows is a graphical operating system developed by Microsoft.
 
-<h2 align="center" id="Text">Text</h2>
+<h1 align="center" id="Text">Text</h1>
 
 Application Programs
 

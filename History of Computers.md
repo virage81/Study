@@ -8,12 +8,31 @@
 
 History of Computers
 
-History of computers beginning with the use of the ten fingers as a calculating device. The abacus was later invented and was still used in some parts of the
-world into the 16th century. Throughout the 17th and 18th centuries, people searched for easier ways of calculating, resulting in the development of the slide
-rule and logarithms. The first calculating machine appeared in 1820 and real advancements were made in the mid-19th century with Charles Babbage's design of
-"The Analytical Engine". In 1930, the first analog computer was built, followed by the completion of the first digital computer in 1944. The following
-generations of computers developed over the years were faster, smaller, and more dependable, with fourth-generation computers being 50 times faster than their
-predecessors.
+Lets take a look at the history of the computers. First calculating device used was the ten fingers of a man’s hands. Then the abacus was invented, a bead frame
+in which the beads are moved from left to right. It is being used in some parts of the world because it can be understood without knowing how to read.
+
+Calculus, another branch of mathematics, was independently invented by both Sir Isaac Newton, an Englishman, and Leibnitz, a German mathematician. The first
+type of machine, which saves a great deal of time and reduces the possibility of making mistakes, depends on a ten- toothed gear wheels.
+
+In 1830 Charles Babbage, an Englishman, designed a machine that was called “The Analytical Engine’. This machine, was an attempt to cut out the human being
+altogether, expert for providing the machine with the necessary facts the problem to be solved.
+
+In 1930, the first analog computer was built by American named Vannevar Bush. The device was used in World War II to help aim guns. Mark I, the name given to
+the first digital computer, was completed in 1944. The men responsible for this invention were Professor Howard Aiken and some people from IBM.
+
+In 1946 two engineers at the University of Pennsylvania, J. Eckert and J. Mayshly, built the first digital computer using parts called vacuum tubes. They named
+their new invention UNIAC. The first generation of computers, which used vacuum tubes, came out in 1950. UNIAC I was an example of these computers which could
+perform thousand of calculations per second. In 1960, the second generation of computers was developed and could perform work ten times faster than their
+predecessors. The reason for this extra speed was the use of transistors instead of vacuum tubes.
+
+Second generation computers were smaller, faster and more dependable than first generation computers.
+
+The third-generation computers appeared on the market in 1965. These computers could do a million calculations a second. Unlike second-generation computers,
+these are controlled by tiny integrated circuits and are consequently smaller and more dependable.
+
+Fourth-generation computers have now arrived, and the integrated circuits that are being developed have been greatly reduced in size. A chip is a square or
+rectangular piece of silicon, which is encapsulated in plastic metal. Fourth-generation computers are 50 times faster than third-generation computers and can
+complete approximately 1.000.000 instructions per second.
 
 ## Text
 

@@ -1,7 +1,7 @@
 # History of Computers
 
-1. [Text](#Text)
-2. [Paraphrase](#Paraphrase)
+1. [Paraphrase](#Paraphrase)
+2. [Text](#Text)
 3. [Text translation](#Translation)
 
 ## Paraphrase

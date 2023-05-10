@@ -21,8 +21,6 @@ An Application Program is a software program that performs a specific function, 
 **Communications**: Computers can communicate with each other via regular telephone lines and modems. Communication software programs enable different types of
 computers to exchange data using a common language. The IMB PC can actually emulate various types of equipment, around the world, with the help of software.
 
-**Communication programs are**: Smartcom, Kermit, Crosstalk, PC Talk, Pro Comm, PC Anywhere, CloseUp.
-
 **Graphic Presentations**: These applications help us to exchange data between computers in other place in the world, using different types of language.
 
 **Microsoft Windows**. Windows is a graphical operating system developed by Microsoft.

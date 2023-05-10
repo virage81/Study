@@ -18,10 +18,9 @@ An Application Program is a software program that performs a specific function, 
 
 **Computer Aided Design**. This program simplifies the simulation. Because in it you can make a drawing -> visualize it -> test it.
 
-**Communications**: Computers can communicate with each other via regular telephone lines and modems. Communication software programs enable different types of
-computers to exchange data using a common language. The IMB PC can actually emulate various types of equipment, around the world, with the help of software.
+**Communications**: These applications help us to exchange data between computers in other place in the world, using different types of language.
 
-**Graphic Presentations**: These applications help us to exchange data between computers in other place in the world, using different types of language.
+**Graphic Presentations**: This program allow us to visual information on diagrams, charts, graphs and columns of numbers.
 
 **Microsoft Windows**. Windows is a graphical operating system developed by Microsoft.
 

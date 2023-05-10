@@ -1,10 +1,10 @@
-<h1> Application Programs</h1>
+# Application Programs
 
 1. [Paraphrase](#Paraphrase)
 2. [Text](#Text)
 3. [Text translation](#Translation)
 
-<h1 align="center" id="Paraphrase">Paraphrase</h1>
+## Paraphrase
 
 Application Programs
 
@@ -27,7 +27,7 @@ computers to exchange data using a common language. The IMB PC can actually emul
 
 **Microsoft Windows**. Windows is a graphical operating system developed by Microsoft.
 
-<h1 align="center" id="Text">Text</h1>
+## Text
 
 Application Programs
 
@@ -94,7 +94,7 @@ applications, while only investing in a single product. The most popular integra
 select desired functions, rather than having to remember commands. As well Windows’ products allow a WYSIWYG (‘what you see is, what you get’) screen display,
 especially important for word processing and desktop publishing programs.
 
-<h2 align="center" id="Translation">Translation</h2>
+## Translation
 
 Application Programs
 
